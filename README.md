@@ -1,6 +1,6 @@
 # LeetCodeExercises
 
-this is my sql script for [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
+1、this is my sql script for [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
 
 ``` CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
